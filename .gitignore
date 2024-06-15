@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+/golang/vendor/
+/golang/go.mod
+/golang/go.sum
+/php/vendor/
+/php/composer.lock
+/rust/target/
+/rust/Cargo.lock
+/typescript/node_modules/
+/typescript/bun.lockb

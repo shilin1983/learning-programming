@@ -1,0 +1,8 @@
+* text=auto eol=lf
+
+*.go diff=golang
+*.md diff=markdown
+*.php diff=php
+*.rs diff=rust
+*.toml diff=toml
+*.ts diff=typescript

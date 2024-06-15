@@ -1,0 +1,12 @@
+{
+    "name": "typescript",
+    "devDependencies": {
+        "@types/bun": "^1.1.4"
+    },
+    "peerDependencies": {
+        "typescript": "^5.4.5"
+    },
+    "dependencies": {
+        "@iarna/toml": "^2.2.5"
+    }
+}
