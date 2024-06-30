@@ -15,9 +15,11 @@
         "psr-4": {
             "App\\Algorithms\\": "app/algorithms",
             "App\\DesignPatterns\\": "app/designPatterns",
-            "App\\LeetCode\\": "app/leetcode",
-            "App\\Structures\\": "app/structures"
+            "App\\LeetCode\\": "app/leetcode"
         },
+        "classmap": [
+            "app/structures"
+        ],
         "files": [
             "app/utils/helpers.php"
         ]
